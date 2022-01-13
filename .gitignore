@@ -1,2 +1,9 @@
 node_modules/
 build/
+.env
+cache/
+artifacts/
+package-lock.json
+contracts/test/faucet.sol
+scripts/04-deploy-faucet.js
+scripts/05-transfer-ownership.js
